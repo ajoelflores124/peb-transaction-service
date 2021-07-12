@@ -1,0 +1,6 @@
+com\everis\representativeservice\RepresentativeserviceApplication.class
+com\everis\representativeservice\entity\Representative.class
+com\everis\representativeservice\service\RepresentativeService.class
+com\everis\representativeservice\exception\EntityNotFoundException.class
+com\everis\representativeservice\controller\RepresentativeController.class
+com\everis\representativeservice\repository\IRepresentativeRepository.class
